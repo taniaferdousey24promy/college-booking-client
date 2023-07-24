@@ -1,0 +1,445 @@
+
+   [
+      {
+        "_id":1,
+        "name": "ABC University",
+        "college_description":"ABC University offers diverse academic programs and cutting-edge facilities. With a focus on research and innovation, students receive a comprehensive education. The campus fosters a vibrant community and enriching extracurricular activities.",
+        "college_image": "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1171&q=80",
+        "college_img": "https://images.unsplash.com/photo-1562774053-701939374585?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8Y29sbGVnZXxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60",
+        "admission_date": "2023-08-15",
+        "events_facilities": "Conference halls, auditoriums,sports events",
+        "research_history": 120,
+        "sports_facilities": "Basketball court, football field, swimming pool",
+        "details": {
+          "images": [
+            "https://images.unsplash.com/photo-1560523159-6b681a1e1852?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80",
+            "https://images.unsplash.com/photo-1505373877841-8d25f7d46678?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=812&q=80",
+            "https://images.unsplash.com/photo-1527702544404-98b15682485f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=387&q=80",
+            "https://images.unsplash.com/photo-1538352886333-5233ad94cb8b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80"
+          ],
+          "admission_process": [
+            "Fill out the online application form.",
+            "Appear for the entrance exam.",
+            "Attend the interview."
+          ],
+          "event_details": [
+            {
+              "event_name": "Intra-college Debate Contest",
+              "event_date": "August 5, 2023",
+              "event_description": "Participate in our Intra-college Debate Contest and win exciting prizes while honing your argumentative skills!"
+            },
+            {
+              "event_name": "Cultural Diversity Showcase",
+              "event_date": "October 15, 2023",
+              "event_description": "Celebrate the rich tapestry of cultures within our college through captivating performances and interactive exhibits!"
+            },
+            {
+              "event_name": "Public Speaking Masterclass",
+              "event_date": "November 12, 2023",
+              "event_description": "Join our renowned Public Speaking Masterclass to develop powerful communication techniques and conquer the stage!"
+            }
+          ],
+          "research_works": {
+            "research_title": "Advancements in Renewable Energy Storage",
+            "research_image": "https://i.ibb.co/d78rxbn/images.jpg",
+            "research_authors": ["John Smith", "Emily Johnson"],
+            "research_date": "March 5, 2023",
+            "research_description": "This research paper explores the latest developments in renewable energy storage technologies. "
+          },
+          "sports": [
+            {
+              "sport_name": "Basketball",
+              "sport_description": "Basketball is a fast-paced team sport played on a rectangular court, where two teams compete to shoot the ball through the opponent's hoop to score points. "
+            },
+            {
+              "sport_name": "Football",
+              "sport_description": "Football, also known as soccer in some regions, is the world's most popular team sport. Played on a rectangular field, teams aim to score goals by getting the ball into the opposing team's net using any part of their bodies except their arms and hands. Football requires excellent footwork, precise passing, and strategic teamwork. It fosters camaraderie and passion among players and fans alike."
+            },
+            {
+              "sport_name": "Swimming",
+              "sport_description": "Swimming is a water-based sport where individuals or teams race through water using various strokes, such as freestyle, breaststroke, backstroke, and butterfly. It is not only a competitive sport but also an essential life skill. Swimming improves cardiovascular fitness, muscular strength, and overall endurance. It offers a refreshing and enjoyable way to stay fit and is a popular recreational activity for people of all ages."
+            }
+          ],
+          "graduate_group_pictures": [
+            "https://images.unsplash.com/photo-1627556704283-452301a45fd0?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTd8fGdyYWR1YXRlfGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60",
+            "https://plus.unsplash.com/premium_photo-1682974403711-2376e6bd4beb?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTN8fGdyYWR1YXRlfGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60"
+          ],
+          "review": 
+            {
+              "student_name": "John Doe",
+              "student_profile": "https://images.unsplash.com/photo-1513258496099-48168024aec0?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80",
+              "feedback": "Excellent academic programs and supportive faculty. The campus atmosphere fosters a strong sense of community. The state-of-the-art library and research facilities are an asset for students. A variety of student clubs and organizations ensure a well-rounded college experience."
+            },
+          "college_rating": 4.5
+        }
+      },
+      {
+        "_id":2,
+        "name": "XYZ College",
+        "college_description":"At XYZ College, students benefit from a supportive and inclusive environment. Specialized programs cater to individual interests and career goals. Modern infrastructure and labs provide real-world training.",
+        "college_image": "https://images.unsplash.com/photo-1531482615713-2afd69097998?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80",
+        "college_img": "https://images.unsplash.com/flagged/photo-1554473675-d0904f3cbf38?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80",
+        "admission_date": "2023-09-01",
+        "events_facilities": "Art exhibitions, music concerts",
+        "research_history": 80,
+        "sports_facilities": "Tennis court, gymnasium",
+        "details": {
+          "images": [
+            "https://images.unsplash.com/photo-1560523159-6b681a1e1852?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80",
+            "https://images.unsplash.com/photo-1505373877841-8d25f7d46678?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=812&q=80",
+            "https://images.unsplash.com/photo-1527702544404-98b15682485f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=387&q=80",
+            "https://images.unsplash.com/photo-1538352886333-5233ad94cb8b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80"
+          ],
+          "admission_process": [
+            "Fill out the online application form.",
+            "Appear for the entrance exam.",
+            "Attend the interview."
+          ],
+          "event_details": [
+            {
+              "event_name": "Intra-college Debate Contest",
+              "event_date": "August 5, 2023",
+              "event_description": "Participate in our Intra-college Debate Contest and win exciting prizes while honing your argumentative skills!"
+            },
+            {
+              "event_name": "Cultural Diversity Showcase",
+              "event_date": "October 15, 2023",
+              "event_description": "Celebrate the rich tapestry of cultures within our college through captivating performances and interactive exhibits!"
+            },
+            {
+              "event_name": "Public Speaking Masterclass",
+              "event_date": "November 12, 2023",
+              "event_description": "Join our renowned Public Speaking Masterclass to develop powerful communication techniques and conquer the stage!"
+            }
+          ],
+          "research_works": {
+            "research_title": "Understanding Natural Language Processing",
+            "research_image": "https://i.ibb.co/zfjZPC7/images-1.jpg",
+            "research_authors": ["Sarah Williams", "Michael Brown", "Olivia Lee"],
+            "research_date": "June 15, 2023",
+            "research_description": "In this study, we delve into the workings of neural networks used in natural language processing (NLP)."
+          },
+          "sports": [
+            {
+              "sport_name": "Tennis",
+              "sport_description": "Tennis is a popular racquet sport played individually against a single opponent (singles) or between two teams of two players each (doubles).  Known for its strategic gameplay and quick movements."
+            },
+            {
+              "sport_name": "Gymnastics",
+              "sport_description": "Gymnastics is a highly dynamic and graceful sport that involves performing a series of acrobatic movements, flips, twists, and balances on various apparatus such as the floor, balance beam, uneven bars, and vault. It requires strength, flexibility, coordination, and artistic flair. Gymnastics is both an individual and team sport, with athletes showcasing their skills in routines that are judged based on execution and artistic presentation."
+            }
+          ],
+          "graduate_group_pictures": [
+            "https://images.unsplash.com/photo-1607013407627-6ee814329547?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTZ8fGdyYWR1YXRlfGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60",
+            "https://images.unsplash.com/photo-1618355776464-8666794d2520?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTJ8fGdyYWR1YXRlfGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60"
+          ],
+          "review": 
+            {
+              "student_name": "Emily Johnson",
+              "student_profile": "https://images.unsplash.com/photo-1529470839332-78ad660a6a82?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=387&q=80",
+              "feedback": "A great place for sports enthusiasts with top-notch facilities. The career services team provides valuable guidance for future endeavors. The diverse student clubs offer ample opportunities for personal growth and networking. The campus embraces cultural diversity and promotes inclusivity."
+            },
+          
+          "college_rating": 4.2
+        }
+      },
+      {
+        "_id":3,
+        "name": "EFG College",
+        "college_description": "PQR Arts Academy nurtures artistic expression with comprehensive programs. Esteemed artists provide personalized guidance and critique. Gallery exhibitions and performances showcase student talents.",
+        "college_image": "https://images.unsplash.com/photo-1543269865-cbf427effbad?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80",
+        "college_img": "https://images.unsplash.com/photo-1578736064666-bfe47265d6b1?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80",
+        "admission_date": "2023-09-05",
+        "events_facilities": "Drama club, literary events",
+        "research_history": 60,
+        "sports_facilities": "Volleyball court, yoga studio",
+        "details": {
+          "images": [
+            "https://images.unsplash.com/photo-1560523159-6b681a1e1852?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80",
+            "https://images.unsplash.com/photo-1505373877841-8d25f7d46678?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=812&q=80",
+            "https://images.unsplash.com/photo-1527702544404-98b15682485f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=387&q=80",
+            "https://images.unsplash.com/photo-1538352886333-5233ad94cb8b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80"
+          ],
+          "admission_process": [
+            "Fill out the online application form.",
+            "Appear for the entrance exam.",
+            "Attend the interview."
+          ],          
+          "event_details": [
+            {
+              "event_name": "Intra-college Debate Contest",
+              "event_date": "August 5, 2023",
+              "event_description": "Participate in our Intra-college Debate Contest and win exciting prizes while honing your argumentative skills!"
+            },
+            {
+              "event_name": "Cultural Diversity Showcase",
+              "event_date": "October 15, 2023",
+              "event_description": "Celebrate the rich tapestry of cultures within our college through captivating performances and interactive exhibits!"
+            },
+            {
+              "event_name": "Public Speaking Masterclass",
+              "event_date": "November 12, 2023",
+              "event_description": "Join our renowned Public Speaking Masterclass to develop powerful communication techniques and conquer the stage!"
+            }
+          ],
+          "research_works":{
+            "research_title": "Impact of Climate Change on Biodiversity ",
+            "research_image": "https://i.ibb.co/vkBDFQG/1000-F-266105823-7-QA8qj-CElv71-Wtwu-SCb-V3-Nmzv602-TZQQ.jpg",
+            "research_authors": ["David Anderson", "Linda Chen", "Carlos Rodriguez"],
+            "research_date": "September 8, 2023",
+            "research_description": "Examining the effects of climate change on biodiversity hotspots around the world. "
+          },
+          "sports": [
+            {
+              "sport_name": "Volleyball",
+              "sport_description": "Volleyball is a team sport played on a rectangular court, with each team aiming to send the ball over the net and into the opponent's side to score points. "
+            },
+            {
+              "sport_name": "Yoga",
+              "sport_description": "Yoga is a holistic practice that combines physical postures (asanas), breathing exercises (pranayama), and meditation to promote physical, mental, and spiritual well-being. It originated in ancient India and has since gained global popularity. Through various poses and breathing techniques, yoga enhances flexibility, strength, and relaxation. It is not just a physical exercise but also a path to self-awareness and inner harmony."
+            }
+          ],
+          "graduate_group_pictures": [
+            "https://images.unsplash.com/photo-1627556704302-624286467c65?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8Z3JhZHVhdGV8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=500&q=60",
+            "https://plus.unsplash.com/premium_photo-1679162280486-8736450a253a?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8Z3JhZHVhdGV8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=500&q=60"
+          ],
+          "review": 
+            {
+              "student_name": "William Clark",
+              "student_profile": "https://images.unsplash.com/photo-1623945194105-cd36c4433390?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=493&q=80",
+              "feedback": "Cutting-edge research opportunities and a vibrant student body. The campus offers a mix of modern and green spaces, creating an inspiring environment. The dedicated mentorship programs empower students to excel in their chosen fields. Active participation in community service is encouraged."
+            },
+            
+          
+          "college_rating": 4.0
+        }
+      },
+      {
+        "_id":4,
+        "name": "LMN University",
+        "college_description":"LMN Institute of Technology is a leading institution for research and innovation. Top-notch facilities and industry partnerships foster entrepreneurship. Faculty and experts prepare graduates for success in the tech industry.",
+        "college_image": "https://images.unsplash.com/photo-1550071593-fd1bdaf1f93c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80",
+        "college_img": "https://images.unsplash.com/photo-1531259736756-6caccf485f81?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80",
+        "admission_date": "2023-08-20",
+        "event_details": [
+          {
+            "event_name": "Intra-college Debate Contest",
+            "event_date": "August 5, 2023",
+            "event_description": "Participate in our Intra-college Debate Contest and win exciting prizes while honing your argumentative skills!"
+          },
+          {
+            "event_name": "Cultural Diversity Showcase",
+            "event_date": "October 15, 2023",
+            "event_description": "Celebrate the rich tapestry of cultures within our college through captivating performances and interactive exhibits!"
+          },
+          {
+            "event_name": "Public Speaking Masterclass",
+            "event_date": "November 12, 2023",
+            "event_description": "Join our renowned Public Speaking Masterclass to develop powerful communication techniques and conquer the stage!"
+          }
+        ]   ,     
+        "research_history": 90,
+        "sports_facilities": "Badminton court, athletics track",
+        "details": {
+          "images": [
+            "https://images.unsplash.com/photo-1560523159-6b681a1e1852?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80",
+            "https://images.unsplash.com/photo-1505373877841-8d25f7d46678?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=812&q=80",
+            "https://images.unsplash.com/photo-1527702544404-98b15682485f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=387&q=80",
+            "https://images.unsplash.com/photo-1538352886333-5233ad94cb8b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80"
+          ],
+          "admission_process": [
+            "Fill out the online application form.",
+            "Appear for the entrance exam.",
+            "Attend the interview."
+          ],          
+          "event_details": [
+            {
+              "event_name": "Intra-college Debate Contest",
+              "event_date": "August 5, 2023",
+              "event_description": "Participate in our Intra-college Debate Contest and win exciting prizes while honing your argumentative skills!"
+            },
+            {
+              "event_name": "Cultural Diversity Showcase",
+              "event_date": "October 15, 2023",
+              "event_description": "Celebrate the rich tapestry of cultures within our college through captivating performances and interactive exhibits!"
+            },
+            {
+              "event_name": "Public Speaking Masterclass",
+              "event_date": "November 12, 2023",
+              "event_description": "Join our renowned Public Speaking Masterclass to develop powerful communication techniques and conquer the stage!"
+            }
+          ],
+          "research_works": {
+            "research_title": "AI-Assisted Medical Diagnosis for Rare Diseases",
+            "research_image": "https://i.ibb.co/xhgJwFc/850-ai-pathology.jpg",
+            "research_authors": ["Dr. Elizabeth Mitchell", "Dr. Samuel Lee"],
+            "research_date": "November 20, 2023",
+            "research_description": "This research delves into the application of artificial intelligence in medical diagnosis, specifically focusing on rare diseases. "
+          },
+          "sports": [
+            {
+              "sport_name": "Badminton",
+              "sport_description": "Badminton is a racquet sport played indoors on a rectangular court divided by a net. "
+            },
+            {
+              "sport_name": "Athletics Track",
+              "sport_description": "Athletics Track, also known as track and field, is a collection of sporting events that take place on a running track, usually oval-shaped. It includes various track events like sprints, middle-distance and long-distance races, hurdles, and relays, as well as field events like long jump, high jump, javelin throw, and discus throw. Athletics is known for testing speed, strength, endurance, and technical skills, and it is a central part of the Olympic Games."
+            }
+          ],
+          "graduate_group_pictures": [
+            "https://images.unsplash.com/photo-1621701582507-4e580f0c84f9?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8Z3JhZHVhdGV8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=500&q=60",
+            "https://images.unsplash.com/photo-1628887919785-ae536631cb76?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8Z3JhZHVhdGV8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=500&q=60"
+          ],
+          "review": 
+            {
+              "student_name": "Ava Martinez",
+              "student_profile": "https://images.unsplash.com/photo-1608453162650-cba45689c284?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=464&q=80",
+              "feedback": "A creative hub with passionate professors. The arts programs nurture artistic expression and allow students to explore their talents. The well-equipped studios and gallery spaces enhance the learning experience. Numerous art exhibitions and performances showcase student achievements."
+            },
+          
+          "college_rating": 4.3
+        }
+       
+      },
+      {
+        "_id":5,
+        "name": "UVW School ",
+        "college_description": "UVW School of Medicine excels in producing skilled healthcare professionals. With state-of-the-art facilities, students learn through practical experiences. Research opportunities aid in medical advancements.",
+        "college_image": "https://images.unsplash.com/photo-1593642532457-b2b99c65e2db?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80",
+        "college_img": "https://images.unsplash.com/photo-1591123120675-6f7f1aae0e5b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1169&q=80",
+        "admission_date": "2023-10-01",
+        "events_facilities": "Medical workshops, research conferences",
+        "research_history": 110,
+        "sports_facilities": "Tennis court, gymnasium",
+        "details": {
+          "images": [
+            "https://images.unsplash.com/photo-1560523159-6b681a1e1852?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80",
+            "https://images.unsplash.com/photo-1505373877841-8d25f7d46678?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=812&q=80",
+            "https://images.unsplash.com/photo-1527702544404-98b15682485f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=387&q=80",
+            "https://images.unsplash.com/photo-1538352886333-5233ad94cb8b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80"
+          ],
+          "admission_process": [
+            "Fill out the online application form.",
+            "Appear for the entrance exam.",
+            "Attend the interview."
+          ],          
+          "event_details": [
+            {
+              "event_name": "Medical Research Symposium",
+              "event_date": "September 5, 2023",
+              "event_description": "Join us for a day of insightful research presentations and discussions by experts in the medical field."
+            },
+            {
+              "event_name": "Healthcare Innovation Challenge",
+              "event_date": "October 15, 2023",
+              "event_description": "Participate in our Healthcare Innovation Challenge and showcase groundbreaking projects aimed at improving global health."
+            },
+            {
+              "event_name": "Medical Career Fair",
+              "event_date": "November 12, 2023",
+              "event_description": "Connect with leading healthcare organizations and explore diverse career opportunities in medicine and healthcare."
+            }
+          ],
+          "research_works": {
+            "research_title": "Advances in Surgical Robotics",
+            "research_image": "data:image/jpeg;base64,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",
+            "research_authors": ["Dr. Robert Anderson", "Dr. Emily Davis"],
+            "research_date": "April 18, 2023",
+            "research_description": "This research delves into the latest developments in surgical robotics, enhancing precision and minimally invasive procedures."
+          },
+          "sports": [
+            {
+              "sport_name": "Tennis",
+              "sport_description": "Tennis is a popular racquet sport played individually against a single opponent (singles) or between two teams of two players each (doubles).  Known for its strategic gameplay and quick movements."
+            },
+            {
+              "sport_name": "Gymnastics",
+              "sport_description": "Gymnastics is a highly dynamic and graceful sport that involves performing a series of acrobatic movements, flips, twists, and balances on various apparatus such as the floor, balance beam, uneven bars, and vault. It requires strength, flexibility, coordination, and artistic flair. Gymnastics is both an individual and team sport, with athletes showcasing their skills in routines that are judged based on execution and artistic presentation."
+            }
+          ],
+          "graduate_group_pictures": [
+            "https://images.unsplash.com/photo-1627556704302-624286467c65?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8Z3JhZHVhdGV8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=500&q=60",
+            "https://plus.unsplash.com/premium_photo-1679162280486-8736450a253a?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8Z3JhZHVhdGV8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=500&q=60"
+          ],
+          "review": 
+            {
+              "student_name": "Michael Johnson",
+              "student_profile": "https://images.unsplash.com/photo-1529470839332-78ad660a6a82?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=387&q=80",
+              "feedback": "The medical programs are rigorous and comprehensive, preparing students for a successful medical career. The faculty members are supportive and experienced practitioners. The campus provides a conducive environment for research and innovation. The simulation labs are equipped with cutting-edge technology."
+            },       
+          "college_rating": 4.4
+        }
+      },
+      {
+        "_id": 6,
+        "name": "PQR School ",
+        "college_description": "PQR School of Engineering is a renowned institution for engineering education, fostering innovation and technical excellence. Students are equipped with practical skills through hands-on projects and industry collaborations.",
+        "college_image": "https://images.unsplash.com/photo-1523572129287-9c92802f26ee?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1050&q=80",
+        "college_img": "https://images.unsplash.com/photo-1610894496955-2eb9fb12d2a9?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80",
+        "admission_date": "2023-09-01",
+        "events_facilities": "Engineering expo, industry workshops",
+        "research_history": 76,
+        "sports_facilities": "Football field, swimming pool",
+        "details": {
+          "images": [
+            "https://images.unsplash.com/photo-1560523159-6b681a1e1852?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80",
+            "https://images.unsplash.com/photo-1505373877841-8d25f7d46678?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=812&q=80",
+            "https://images.unsplash.com/photo-1527702544404-98b15682485f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=387&q=80",
+            "https://images.unsplash.com/photo-1538352886333-5233ad94cb8b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80"
+          ],
+          "admission_process": [
+            "Complete the online application form.",
+            "Appear for the engineering entrance exam.",
+            "Participate in the counseling session."
+          ],
+          "event_details": [
+            {
+              "event_name": "Engineering Innovation Summit",
+              "event_date": "October 10, 2023",
+              "event_description": "Explore groundbreaking engineering projects and inventions at our annual Innovation Summit. Connect with leading engineers and industry experts."
+            },
+            {
+              "event_name": "Tech Expo",
+              "event_date": "November 20, 2023",
+              "event_description": "Witness the latest advancements in technology and engineering at our Tech Expo. Interact with innovative startups and established tech companies."
+            },
+            {
+              "event_name": "Industry Connect",
+              "event_date": "December 15, 2023",
+              "event_description": "Meet industry leaders and professionals at Industry Connect. Learn about the latest trends and job opportunities in the engineering field."
+            }
+          ],
+          "research_works": {
+            "research_title": "Sustainable Energy Solutions",
+            "research_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBg60Mm0mRNwckopDWsTd0cneHW0JmAyn2OQ&usqp=CAU",
+            "research_authors": ["Dr. Sarah Miller", "Dr. David Lee"],
+            "research_date": "May 12, 2023",
+            "research_description": "This research focuses on sustainable energy solutions, exploring renewable energy sources and their integration into the existing infrastructure for a greener future."
+          },
+          "sports": [
+            {
+              "sport_name": "Football",
+              "sport_description": "Football, also known as soccer, is a popular team sport played with a spherical ball between two teams of eleven players each. It is one of the most widely followed and played sports globally."
+            },
+            {
+              "sport_name": "Swimming",
+              "sport_description": "Swimming is a water-based sport where athletes move through the water by using various strokes and techniques. It is not only a competitive sport but also a popular recreational activity."
+            }
+          ],
+          "graduate_group_pictures": [
+            "https://images.unsplash.com/photo-1507066896291-0ebad30c49d9?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8Z3JhZHVhdGV8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=500&q=60",
+            "https://images.unsplash.com/photo-1596568887432-16b6cd416643?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8Z3JhZHVhdGV8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=500&q=60"
+          ],
+          "review": 
+            {
+              "student_name": "Emily Roberts",
+              "student_profile": "https://images.unsplash.com/photo-1610421620680-c8db8a63c58b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=387&q=80",
+              "feedback": "XYZ School of Engineering provides an exceptional learning experience with well-qualified faculty members who are passionate about teaching. The emphasis on practical projects and industry exposure has been instrumental in preparing me for real-world engineering challenges."
+            },       
+          "college_rating": 4.6
+        }
+      }
+
+    ]
+  
+  
